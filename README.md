@@ -14,4 +14,4 @@ REQUIREMENTS:
 To build the model i followed the instructions mentioned in this Github repository by "Edge Electronics" - https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10 
 
 
-I have used my own images to train the classifier. It is based of Google's Faster RCNN V2 COCO. The neural network would detect the orientation of my fingers.
+I have used my own images to train the classifier. It is based of Google's Faster RCNN V2 COCO. The neural network would detect the orientation of fingers.
