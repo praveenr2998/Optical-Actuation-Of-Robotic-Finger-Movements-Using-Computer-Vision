@@ -5,7 +5,7 @@ This project aims to provide actuation signals for robotic finger movements usin
 
 This project is done using Anaconda which is opensource and tensorflow object detection - API
 
-The drive link for downloading the model : 
+The drive link for downloading the model : https://drive.google.com/drive/folders/1vn2AIGtiDnq1qWZo__HGPQLemYADY-lI?usp=sharing
 
 
 # REQUIREMENTS:
@@ -21,8 +21,12 @@ I have used my own images to train the classifier. It is based of Google's Faste
 # STEPS TO RUN THE MODEL AND OBTAIN THE SIMILAR OUTPUT
 ---> All you need to do is create an environment with the above given specifications and download the model-r1.13.0 file.
 
----> After creating the environment the execution file will be present in the directory : \models-r1.13.0\research\object_detection
+---> After creating the environment the execution file will be present in the directory : models-r1.13.0\models-r1.13.0\research\object_detection
 
 ---> In this directory if you want just the finger-count/orientation detection part run Object_detetection_webcam.py.
 
 ---> If you have the hardware to then run Object_detection_webcam-serial_communication.py.
+
+
+# HARDWARE
+Arduino-Uno,4-Servo-Motors,a robotic arm frame redesigned to suit the need.
