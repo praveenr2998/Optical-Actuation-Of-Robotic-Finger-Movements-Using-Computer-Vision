@@ -1,6 +1,6 @@
 # Optical-Actuation-Of-Robotic-Finger-Movements-Using-Computer-Vision
 
-![](Sample_images_used_for_training/Image-Of-Project.jpg)
+https://github.com/praveenr2998/Optical-Actuation-Of-Robotic-Finger-Movements-Using-Computer-Vision/blob/master/Image-Of-Project.jpeg
 
 This project aims to provide actuation signals for robotic finger movements using optical/visual method. I have used computer vision to track the finger movements and provide actuation signals to the robotic arm.
 
